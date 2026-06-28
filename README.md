@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm RIFATUJJAN RIDOY</h1>
+<h1 align="center">Hi 👋, I'm RIFATUJJAMAN RIDOY</h1>
 <h3 align="center">💻 Passionate Web Developer from Bangladesh</h3>
 
 <p align="center">
